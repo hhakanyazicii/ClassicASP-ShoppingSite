@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(255, 255, 255);
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color:blueviolet;
+
+}
+
+.navbar {
+    position: absolute;
+}
+
+#kayitdiv {
+    padding-left: 43%;
+}
+
+.kayitInput {
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 41%;
+    border: 2px solid black;
+    border-radius:20px;
+}
+.kayitInput2 {
+    padding-left: 45%;
+    padding-top: 1%;
+}
+
+.kayitInput3 {
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 42%;
+    border: 2px solid black;
+    border-radius:20px;
+}
+
+label {
+    margin-left: 41%;
+}
+
+.kayitButon {
+    margin-left: 45.5%;
+    margin-top: 2%;
+}
+
+span {
+    margin-left: 40%;
+}
+
